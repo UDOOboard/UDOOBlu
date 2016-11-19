@@ -5,28 +5,32 @@
       "data": "01-01-1990",
       "version": "0.1",
       "description": "test acc..",
-      "sha1":"83724838243jdjdadadA"
+      "sha1":"83724838243jdjdadadA",
+      "url":"https://udooboard.github.io/UDOOBlu/OADFirmware/ver_0.1.bin"
     },
     {
       "name": "test2",
       "data": "01-01-1990",
       "version": "0.2",
       "description": "test acc..",
-      "sha1":"83724838243jdjdadadA"
+      "sha1":"83724838243jdjdadadA",
+      "url":"https://udooboard.github.io/UDOOBlu/OADFirmware/ver_0.1.bin" 
     },
     {
       "name": "test3",
       "data": "01-01-1990",
       "version": "0.3",
       "description": "test acc..",
-      "sha1":"83724838243jdjdadadA"
+      "sha1":"83724838243jdjdadadA",
+      "url":"https://udooboard.github.io/UDOOBlu/OADFirmware/ver_0.1.bin"
     },
     {
       "name": "test4",
       "data": "01-01-1990",
       "version": "0.4",
       "description": "test acc..",
-      "sha1":"83724838243jdjdadadA"
+      "sha1":"83724838243jdjdadadA",
+      "url":"https://udooboard.github.io/UDOOBlu/OADFirmware/ver_0.1.bin"
     }
   ]
 }
