@@ -4,7 +4,7 @@
       "name": "SENSE.A",
       "data": "20-04-2017",
       "version": "1.0A",
-      "description": [
+      "features": [
         "GPIO",
         "LEDs",
         "Accelerometer & Magnetometer",
@@ -20,7 +20,7 @@
      "name": "NO SENSE.B",
       "data": "20-04-2017",
      "version": "1.0B",
-      "description": [
+      "features": [
         "GPIO",
         "LEDs",
         "Temperature",
@@ -36,7 +36,7 @@
      "name": "SENSE.C",
       "data": "20-04-2017",
       "version": "1.0C",
-      "description": [
+      "features": [
         "GPIO",
         "LEDs",
         "Accelerometer",
