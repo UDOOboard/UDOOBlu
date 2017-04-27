@@ -2,7 +2,7 @@
   "oad_firmwares": [
     {
       "name": "SENSE.A",
-      "data": "20-04-2017",
+      "data": "27-04-2017",
       "version": "1.0A",
       "features": [
         "GPIO",
@@ -12,14 +12,14 @@
         "Temperature",
         "Barometer",
         "OAD"
-        ],
-      "sha1":"db70865335085534617a7801f1edc888ec186d36",
-      "url":"https://udooboard.github.io/UDOOBlu/OADFirmware/v1.0A.bin"
+      ],
+      "sha1": "5525910e2d6f976886330f25d83d9088ed73e9b7",
+      "url": "https://udooboard.github.io/UDOOBlu/OADFirmware/v1.0A.bin"
     },
     {
-     "name": "NO SENSE.B",
-      "data": "20-04-2017",
-     "version": "1.0B",
+      "name": "NO SENSE.B",
+      "data": "27-04-2017",
+      "version": "1.0B",
       "features": [
         "GPIO",
         "LEDs",
@@ -28,13 +28,13 @@
         "Humidity",
         "Ambient Light",
         "OAD"
-        ],
-      "sha1":"d24192b3bbe92abbad455e1491c78c32aa529499",
-      "url":"https://udooboard.github.io/UDOOBlu/OADFirmware/v1.0B.bin" 
+      ],
+      "sha1": "d24192b3bbe92abbad455e1491c78c32aa529499",
+      "url": "https://udooboard.github.io/UDOOBlu/OADFirmware/v1.0B.bin"
     },
     {
-     "name": "SENSE.C",
-      "data": "20-04-2017",
+      "name": "SENSE.C",
+      "data": "27-04-2017",
       "version": "1.0C",
       "features": [
         "GPIO",
@@ -43,9 +43,9 @@
         "Magnetometer",
         "Gyroscope",
         "OAD"
-        ],
-      "sha1":"bbc6e698bd7c14eac1e82fa321779aefa826ce9c",
-      "url":"https://udooboard.github.io/UDOOBlu/OADFirmware/v1.0C.bin"
+      ],
+      "sha1": "289756a83435df1c1b2e006b6117bff9e5432c0f",
+      "url": "https://udooboard.github.io/UDOOBlu/OADFirmware/v1.0C.bin"
     }
   ]
 }
