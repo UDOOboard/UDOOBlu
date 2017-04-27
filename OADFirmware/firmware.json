@@ -1,36 +1,51 @@
 {
   "oad_firmwares": [
     {
-      "name": "test1",
-      "data": "01-01-1990",
-      "version": "0.1",
-      "description": "test acc..",
-      "sha1":"83724838243jdjdadadA",
-      "url":"https://udooboard.github.io/UDOOBlu/OADFirmware/ver_0.1.bin"
+      "name": "SENSE.A",
+      "data": "20-04-2017",
+      "version": "1.0A",
+      "description": [
+        "GPIO",
+        "LEDs",
+        "Accelerometer & Magnetometer",
+        "Gyroscope",
+        "Temperature",
+        "Barometer",
+        "OAD"
+        ],
+      "sha1":"db70865335085534617a7801f1edc888ec186d36",
+      "url":"https://udooboard.github.io/UDOOBlu/OADFirmware/v1.0A.bin"
     },
     {
-      "name": "test2",
-      "data": "01-01-1990",
-      "version": "0.2",
-      "description": "test acc..",
-      "sha1":"83724838243jdjdadadA",
-      "url":"https://udooboard.github.io/UDOOBlu/OADFirmware/ver_0.1.bin" 
+     "name": "NO SENSE.B",
+      "data": "20-04-2017",
+     "version": "1.0B",
+      "description": [
+        "GPIO",
+        "LEDs",
+        "Temperature",
+        "Barometer",
+        "Humidity",
+        "Ambient Light",
+        "OAD"
+        ],
+      "sha1":"d24192b3bbe92abbad455e1491c78c32aa529499",
+      "url":"https://udooboard.github.io/UDOOBlu/OADFirmware/v1.0B.bin" 
     },
     {
-      "name": "test3",
-      "data": "01-01-1990",
-      "version": "0.3",
-      "description": "test acc..",
-      "sha1":"83724838243jdjdadadA",
-      "url":"https://udooboard.github.io/UDOOBlu/OADFirmware/ver_0.1.bin"
-    },
-    {
-      "name": "test4",
-      "data": "01-01-1990",
-      "version": "0.4",
-      "description": "test acc..",
-      "sha1":"83724838243jdjdadadA",
-      "url":"https://udooboard.github.io/UDOOBlu/OADFirmware/ver_0.1.bin"
+     "name": "SENSE.C",
+      "data": "20-04-2017",
+      "version": "1.0C",
+      "description": [
+        "GPIO",
+        "LEDs",
+        "Accelerometer",
+        "Magnetometer",
+        "Gyroscope",
+        "OAD"
+        ],
+      "sha1":"bbc6e698bd7c14eac1e82fa321779aefa826ce9c",
+      "url":"https://udooboard.github.io/UDOOBlu/OADFirmware/v1.0C.bin"
     }
   ]
 }
